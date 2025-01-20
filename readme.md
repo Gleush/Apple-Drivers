@@ -33,7 +33,7 @@ Le pilote installé par défaut par Microsoft lors de la connexion de votre Magi
 4. Paramètres > Bluetooth : Ajoutez l'appareil pour connectez votre Magic Mouse
 
 ### Note : Pour inverser le sens du scroll
-Dans le [fichier compressé correspondant à la Magic Mouse](Clavier-AppleFr-sansfil-Windows-v2.zip) lancer le `invert-mouse-scroll.bat` avec les droits administrateur.  
+Dans le [fichier compressé correspondant à la Magic Mouse](AppleWirelessMouse.zip) lancer le `invert-mouse-scroll.bat` avec les droits administrateur.  
 (Si le script ne fonctionne pas c'est que votre clé Regex n'est pas la même. Vous devrez alors la mettre à jour en fonction de votre cas. Vous pouvez trouver la votre en ouvrant les paramètres de votre souris dans le gestionnaire des périfériques>Souris>Souris HID>(emplacement : sur Apple Wireless Mouse)>Détails>Chemin d'accès à l'instance du périphérique. Puis copier coller la valeur dans le .bat après le DeviceKey=%SystemKey% )
 
 
