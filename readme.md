@@ -8,7 +8,7 @@ Pour pouvoir utiliser votre Magic Mouse et votre Magic Keyboard sur un ordinateu
 ## Magic Keyboard
 Par défaut le mapping des touches du Magic Keybord n'est pas correcte. Vous devez installer le maping des touches spécifique au clavier Apple.  
 Pour corriger cela il faut simplement ajouter le layer des claviers Apple :
-1. [Téléchargez le .zip correspondant au Magic Keyboard](AppleWirelessMouse.zip)
+1. [Téléchargez le .zip correspondant au Magic Keyboard](Clavier-AppleFr-sansfil-Windows-v2.zip)
 2. Extrayez les fichiers
 3. Installez le `setup` avec les droits admins
 4. Redémarrer votre pc
@@ -27,7 +27,7 @@ Français (France) ⁝ > Option linguistiques > Ajouter un clavier
 Le pilote installé par défaut par Microsoft lors de la connexion de votre Magic Mouse est imparfait et ne vous permets pas de scroller. Pour résoudre ce problème nous allons installer le pilote d'Apple :
 
 0. Pramètres > Bluetooth : Supprimez votre souris si elle est déjà connecté à votre ordinateur.
-1. [Télécharger le .zip correspondant à la Magic Mouse](Clavier-AppleFr-sansfil-Windows-v2.zip)
+1. [Télécharger le .zip correspondant à la Magic Mouse](AppleWirelessMouse.zip)
 2. Extrayez les fichiers
 3. Cliquez droit sur **AppleWirelessMouse.inf** puis `Installer`
 4. Paramètres > Bluetooth : Ajoutez l'appareil pour connectez votre Magic Mouse
